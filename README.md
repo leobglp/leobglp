@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @leobglp
+
+<!---
 - 👀 I’m interested in python web development
 - 🌱 I’m currently learning django
  
-<!---
+
 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
